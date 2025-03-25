@@ -175,7 +175,7 @@ See the [HTML version](https://docs.sweeting.me/s/self-host-a-wikipedia-mirror#T
 
 Wikipedia HTML dumps are provided in a highly-compressed web-archiving format called [ZIM](https://openzim.org). They can be served using a ZIM server like Kiwix (the most common one), or [ZimReader](https://openzim.org/wiki/Zimreader), [GoZIM](https://github.com/akhenakh/gozim), & [others](https://openzim.org/wiki/Readers).
 
-- [Kiwix.org full ZIM archive list](https://wiki.kiwix.org/wiki/Content_in_all_languages) or [Kiwix.org Wikipedia-specific ZIM archive list](https://download.kiwix.org/zim/wikipedia/)
+- [Kiwix.org full ZIM archive list](https://wiki.kiwix.org/wiki/Content_in_all_languages) or [Kiwix.org Wikipedia-specific ZIM archive list](https://library.kiwix.org/#lang=eng&q=wikipedia)
 - [Wikimedia.org ZIM archive list](https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/)
 - [List of ZIM BitTorrent links](https://gist.github.com/maxogden/70674db0b5b181b8eeb1d3f9b638ab2a)
 
